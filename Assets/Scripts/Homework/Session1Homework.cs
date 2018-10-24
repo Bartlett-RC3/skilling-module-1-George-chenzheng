@@ -11,7 +11,7 @@ public class Session1Homework : MonoBehaviour
     public string myString = "My tutors is intelligent and handsome";
 
     public int[] myArray = new int[6] { 1,2,3,4,5,6 };
-    public List<int> myIntList = new List<int>(5);
+    public List<int> myIntList = new List<int>();
 
     Dictionary<string, string> country = new Dictionary<string, string>();
 
