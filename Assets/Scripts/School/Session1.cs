@@ -12,6 +12,7 @@ public class Session1 : MonoBehaviour {
     // Numbers
     public int myFirstIntegerNumber = 101; //make sure you end with ;
     float myFirstFloatNumber = 1.75f;
+    
 
     // Text
     public string myFirstString = "My text is somewhere.";
@@ -47,6 +48,7 @@ public class Session1 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         Debug.Log("Hello world!");
+
 	}
 
     int AddtionOfNumbers(int number1, int number2)
